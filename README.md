@@ -16,7 +16,7 @@
   <img align="center" alt="Andin-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andin-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andin-Next" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img height="140em" align="right" alt="Andin-irmaoDoJorel" src="https://pbs.twimg.com/profile_images/929378157005852672/TPt-8sos.jpg">
+  <img height="160em" align="right" alt="Andin-irmaoDoJorel" src="https://pbs.twimg.com/profile_images/929378157005852672/TPt-8sos.jpg">
     
 </div>
   
