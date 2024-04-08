@@ -1,8 +1,8 @@
 ### Hi there 👋
 ##
-- 🎉 20y.
-- 🔭 Possuo conhecimentos em HTML, CSS e JS. Porém sigo estudando essas tecnologias.
-- 🌱 Atualmente aprendendo Typescript e NextJs. Estou no 5º semestre de engenharia de computação.
+- 🎉 22y.
+- 🔭 Desenvolvedor full stack react, java spring e nast.
+
 ##
  <div>
   <a href="https://github.com/AndersonMoura333">
